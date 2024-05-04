@@ -1,3 +1,5 @@
+#include <Wire.h>
+
 /*!
  * @file stepper_motor_controller.ino
  *
@@ -41,9 +43,7 @@
 #include <globals.h>
 #include <easycomm.h>
 #include <rotator_pins.h>
-//#include <rs485.h>
 #include <endstop.h>
-//#include <watchdog.h>
 
 uint32_t t_run = 0; // run time of uC
 easycomm comm;
