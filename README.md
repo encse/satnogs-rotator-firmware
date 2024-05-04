@@ -1,4 +1,4 @@
-# SatNOGS Rotator Firmware for Arduino UNO/CNC Shield, for DIRECT CONNECTION TO PC via serial
+# SatNOGS Rotator Firmware for Arduino UNO/CNC Shield, for DIRECT CONNECTION TO PC via USB / serial
 
 Firmware [SatNOGS Rotator Controller Based on Arduino UNO and CNC V3 Shield](https://wiki.satnogs.org/SatNOGS_Arduino_Uno/CNC_Shield_Based_Rotator_Controller).
 
